@@ -1,1 +1,2 @@
-# NC27
+# You can waste your time here :)
+controls: upper arrow to move
